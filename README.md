@@ -19,7 +19,7 @@ dentro de este repo estaran presentes los diferentes codigos propuestos por el d
 
 ##MATERIA Y SERIE
 
-##LENGUAJEZ DE INTERFAZ
+##LENGUAJES DE INTERFAZ
 
 ##UNIDAD A EVALUAR
 

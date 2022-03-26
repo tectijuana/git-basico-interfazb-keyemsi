@@ -6,7 +6,7 @@
 *en una lista de quince enteros              
 *algunos de los cuales son impares
 */
-//@Author       Fabian Acosta Gutierrez 19211591
+//@Author       keyemsi
 // @Date        25 marzo 2022
 
 using namespace std;
